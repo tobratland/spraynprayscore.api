@@ -1,0 +1,14 @@
+C:\Users\tobra\source\repos\spraynprayscore.api\spraynprayscore.api\bin\Debug\netcoreapp2.2\spraynprayscore.api.deps.json
+C:\Users\tobra\source\repos\spraynprayscore.api\spraynprayscore.api\bin\Debug\netcoreapp2.2\spraynprayscore.api.runtimeconfig.json
+C:\Users\tobra\source\repos\spraynprayscore.api\spraynprayscore.api\bin\Debug\netcoreapp2.2\spraynprayscore.api.runtimeconfig.dev.json
+C:\Users\tobra\source\repos\spraynprayscore.api\spraynprayscore.api\bin\Debug\netcoreapp2.2\spraynprayscore.api.dll
+C:\Users\tobra\source\repos\spraynprayscore.api\spraynprayscore.api\obj\Debug\netcoreapp2.2\spraynprayscore.api.csprojAssemblyReference.cache
+C:\Users\tobra\source\repos\spraynprayscore.api\spraynprayscore.api\obj\Debug\netcoreapp2.2\spraynprayscore.api.csproj.CoreCompileInputs.cache
+C:\Users\tobra\source\repos\spraynprayscore.api\spraynprayscore.api\obj\Debug\netcoreapp2.2\spraynprayscore.api.RazorAssemblyInfo.cache
+C:\Users\tobra\source\repos\spraynprayscore.api\spraynprayscore.api\obj\Debug\netcoreapp2.2\spraynprayscore.api.RazorAssemblyInfo.cs
+C:\Users\tobra\source\repos\spraynprayscore.api\spraynprayscore.api\obj\Debug\netcoreapp2.2\spraynprayscore.api.AssemblyInfoInputs.cache
+C:\Users\tobra\source\repos\spraynprayscore.api\spraynprayscore.api\obj\Debug\netcoreapp2.2\spraynprayscore.api.AssemblyInfo.cs
+C:\Users\tobra\source\repos\spraynprayscore.api\spraynprayscore.api\obj\Debug\netcoreapp2.2\spraynprayscore.api.RazorTargetAssemblyInfo.cache
+C:\Users\tobra\source\repos\spraynprayscore.api\spraynprayscore.api\bin\Debug\netcoreapp2.2\spraynprayscore.api.pdb
+C:\Users\tobra\source\repos\spraynprayscore.api\spraynprayscore.api\obj\Debug\netcoreapp2.2\spraynprayscore.api.dll
+C:\Users\tobra\source\repos\spraynprayscore.api\spraynprayscore.api\obj\Debug\netcoreapp2.2\spraynprayscore.api.pdb
